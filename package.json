@@ -1,0 +1,37 @@
+{
+  "name": "pwa-config",
+  "version": "1.0.0",
+  "description": "The most actual config for progressive web application. All meta tags and manifest. Useful list of icons and splash screens.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpalchikovskiy/pwa-config.git"
+  },
+  "keywords": [
+    "pwa",
+    "progressive web application",
+    "progressive",
+    "web",
+    "application",
+    "app",
+    "manifest",
+    "web manifest",
+    "web app",
+    "web application",
+    "web app manifest",
+    "config",
+    "pwa config"
+  ],
+  "author": "Alex Palchikovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpalchikovskiy/pwa-config/issues"
+  },
+  "homepage": "https://github.com/alexpalchikovskiy/pwa-config#readme"
+}
