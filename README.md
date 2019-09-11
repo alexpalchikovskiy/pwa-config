@@ -20,8 +20,11 @@ let options = {
 
 const _config = new Config( options );
 
-console.log( _config.tags );
-console.log( _config.manifest );
+console.log( _config.tags ); // String
+console.log( _config.manifest ); // Object
+
+console.log( _config.icons ); // Array of objects
+console.log( _config.splashscreens ); // Array of objects
 ```
 
 ## Options
