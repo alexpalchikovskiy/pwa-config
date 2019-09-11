@@ -44,3 +44,13 @@ console.log( _config.splashscreens ); // Array of objects
 **display** - by default *standalone*, [more about display](https://developer.mozilla.org/en-US/docs/Web/Manifest/display)
 
 [All Web App Manifest options](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+
+## Icons
+
+#### iOS
+
+**540x540** - one icon for all iOS devices
+
+#### Android
+
+**192x192** and **512x512** - two icons for all Android devices
