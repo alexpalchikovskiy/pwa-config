@@ -47,10 +47,10 @@ console.log( _config.splashscreens ); // Array of objects
 
 ## Icons
 
-#### iOS
+You need only 3 icons for all devices:
 
-**540x540** - one icon for all iOS devices
+**icon-540x540.png** - all iOS devices
 
-#### Android
+**icon-192x192.png** - part of Android devices
 
-**192x192** and **512x512** - two icons for all Android devices
+**icon-512x512.png** - another part of Android devices:)
