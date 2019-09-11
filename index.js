@@ -45,7 +45,7 @@ class Config{
             const link = [
                 {
                     rel: 'apple-touch-icon',
-                    href: `${options.icons_href}${this.icons[0].size}x${this.icons[0].size}.png`
+                    href: `${options.icons_href}${_icons[0].size}x${_icons[0].size}.png`
                 },
                 {
                     rel: 'manifest',
