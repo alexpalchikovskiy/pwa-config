@@ -46,7 +46,7 @@ class Config{
             },
             {
                 name: 'apple-mobile-web-app-title',
-                content: this.o.name || 'App'
+                content: this.o.name || 'WebApp'
             },
             {
                 name: 'apple-mobile-web-app-capable',
