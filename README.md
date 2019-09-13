@@ -1,6 +1,8 @@
 # pwa-config
 The most actual config for progressive web application. All meta tags and manifest. Useful list of icons and splash screens.
 
+[Also try Gulp solution](https://www.npmjs.com/package/gulp-pwa)
+
 ## Install
 
 ```
@@ -45,7 +47,7 @@ console.log( _config.splashscreens ); // Array of objects
 
 [All Web App Manifest options](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
-## Icons
+## Icons {#icons}
 
 You need only 3 icons for all devices:
 
@@ -55,7 +57,7 @@ You need only 3 icons for all devices:
 
 **icon-512x512.png** - another part of Android devices:)
 
-## Splashscreens
+## Splashscreens {#splashscreens}
 
 You need splashscreens only for iOS devices, because Android using *background_color* option and icon for display splashscreen.
     
