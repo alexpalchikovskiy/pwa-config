@@ -1,6 +1,6 @@
 {
   "name": "pwa-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The most actual config for progressive web application. All meta tags and manifest. Useful list of icons and splash screens.",
   "main": "index.js",
   "directories": {
