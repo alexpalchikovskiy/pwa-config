@@ -47,7 +47,7 @@ console.log( _config.splashscreens ); // Array of objects
 
 [All Web App Manifest options](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
-## [Icons](#anchors-in-markdown)
+## Icons
 
 You need only 3 icons for all devices:
 
@@ -57,7 +57,7 @@ You need only 3 icons for all devices:
 
 **icon-512x512.png** - another part of Android devices:)
 
-## [Splashscreens](#splashscreens)
+## Splashscreens
 
 You need splashscreens only for iOS devices, because Android using *background_color* option and icon for display splashscreen.
     
