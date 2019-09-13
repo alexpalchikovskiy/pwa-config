@@ -61,17 +61,17 @@ You need only 3 icons for all devices:
 
 You need splashscreens only for iOS devices, because Android using *background_color* option and icon for display splashscreen.
     
-**splashscreen-1242x2688.png** - for iPhone Xs Max, 11 Pro Max
+**splashscreen-1242x2688.png** - for iPhone 11 Pro Max, Xs Max
     
-**splashscreen-828x1792.png** - for iPhone Xr, 11
+**splashscreen-828x1792.png** - for iPhone 11, Xr
     
-**splashscreen-1125x2436.png** - for iPhone X, Xs, 11 Pro
+**splashscreen-1125x2436.png** - for iPhone 11 Pro, Xs, X
     
 **splashscreen-1242x2208.png** - for iPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus
     
 **splashscreen-750x1334.png** - for iPhone 8, 7, 6s, 6
     
-**splashscreen-640x1136.png** - for iPhone 5, 5s, SE
+**splashscreen-640x1136.png** - for iPhone SE, 5s, 5
     
 **splashscreen-1620x2160.png** - for iPad
     
